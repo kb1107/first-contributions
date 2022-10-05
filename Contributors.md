@@ -425,6 +425,7 @@ Indra Sonowal
 - [Pedro Moyano](https://github.com/petermoyano)
 - [Yusuf Alsaedi](https://github.com/redmite123)
 - [Lener]
+- [cr1d3v](https://github.com/cr1d3v)
 - [Lucas Grela] (https://github.com/noname07)
 - [Sheikh Limon](https://github.com/sheikhlimon)
 - [idunne360](https://github.com/idunne360)
